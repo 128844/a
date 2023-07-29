@@ -13,7 +13,7 @@ This replicates as well as possible real deployment configurations, where you ha
 
 **UPDATE**: No /etc/hosts file changes are necessary anymore. Explanations at: https://rmoff.net/2018/08/02/kafka-listeners-explained/
 
-## Stack version
+## Stack version love
 
   - Conduktor Platform: latest
   - Zookeeper version: 3.6.3 (Confluent 7.3.2)
